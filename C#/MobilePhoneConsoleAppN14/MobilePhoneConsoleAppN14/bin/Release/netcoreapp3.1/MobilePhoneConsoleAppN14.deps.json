@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MobilePhoneConsoleAppN14/1.0.0": {
+        "dependencies": {
+          "MobilePhoneLib": "1.0.0"
+        },
+        "runtime": {
+          "MobilePhoneConsoleAppN14.dll": {}
+        }
+      },
+      "MobilePhoneLib/1.0.0": {
+        "runtime": {
+          "MobilePhoneLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobilePhoneConsoleAppN14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobilePhoneLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
